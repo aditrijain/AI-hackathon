@@ -8,7 +8,7 @@ import time
 
 import os
 
-st.title("*TITLE*")
+st.title("hello")
 
 # File uploader for image
 image_file = st.file_uploader("Upload Image", type=["jpg", "jpeg", "png"])
